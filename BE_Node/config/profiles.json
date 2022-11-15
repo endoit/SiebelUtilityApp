@@ -1,0 +1,16 @@
+{
+  "sample": {
+    "username": "",
+    "password": "",
+    "srvrMgrPath": "",
+    "gateway": "",
+    "enterprise": "",
+    "color": "",
+    "readonly": null,
+    "zookeeper": {
+      "host": "",
+      "password": "",
+      "username": ""
+    }
+  }
+}
