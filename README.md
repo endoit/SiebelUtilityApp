@@ -1,5 +1,7 @@
 Siebel Utility Application is a lightweight full stack application, which enables interaction with Siebel Server Components easily, such as checking and changing parameters, starting and stopping them, and setting the log level for their events. Create snapshot which saves the current state of the server components. Compare the enterprise states between different environments or snapshots.
 
+Please visit [the endo IT website](https://endoit.hu/innovates/utilityapp/) for a free link to the full version of the application. This repository contains an open source evaluation version with limited features.
+
 # 1. Installation
 
 **IMPORTANT**: Only use the Siebel Utility Application on development and test environments, never on production.
@@ -116,6 +118,4 @@ __Features in the full version__
 
 ![comparefull](features/comparefull.gif)
 
-# If you are interested in the full version of the application, contact us!
-
-__[endo IT website](https://endoit.hu)__
+[Get the full version on our website](https://endoit.hu/innovates/utilityapp/).
